@@ -2,7 +2,7 @@
 //  GameViewController.swift
 //  PlaneOverOcean
 //
-//  Created by Sorena Sorena on 2022-01-23.
+//  Created by Ali on 2022-01-23.
 //
 
 import UIKit
